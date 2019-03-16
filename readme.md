@@ -1,4 +1,4 @@
-## Projeto Financeiro
+## Projeto locadora de veiculos
 ## Using MySql
 ## Configurations for Hibernate
 
